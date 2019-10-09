@@ -50,7 +50,7 @@ REST API (services) details:
 > Preferred solution would have the rest api implemention using nodeJs, KOA JS/ Express JS etc. or if that is not possible it can be 
 mocked using the axios.
 
-> The portal must be created using react, redux and thunk, Custom CSS / CSS framework, responsive design, and unit test cases covering 
+> The portal must be created using Angular, Custom CSS / CSS framework, responsive design, and unit test cases covering 
 all scenarios.
 
 > Use all best practices (production level code quality).
